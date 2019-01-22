@@ -3,3 +3,5 @@ mech*
 *.xls
 *.mat
 Arch*
+*biom*
+*mech*
